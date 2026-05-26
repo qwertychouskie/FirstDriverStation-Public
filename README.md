@@ -22,6 +22,8 @@ macOS will also prompt with **"FirstDriverStation" would like to access data fro
 
 If you decline any of these, you can fix the settings in the `Privacy & Security` tab of System Settings.
 
+If Local Network access still does not work after re-enabling it there, see [macOS Permissions](docs/macOSPermissions.md) for a terminal-based workaround.
+
 ### Linux
 The following packages must be installed in order for linux to work.
 
