@@ -22,6 +22,7 @@ The FIRST Driver Station uses SDL for gamepad support. Most common gamepads work
 | Nintendo Switch 2 Pro | `057E:2069` | Supported | Unsupported | Supported | Yes |  |
 | Nintendo NSO N64 | `057E:2019` | Supported | Supported | Supported | Yes | Mappings are odd due to the awkward button layout. |
 | Nintendo NSO GameCube | `057E:2073` | Supported | Unsupported | Supported | Yes |  |
+| Wii U GameCube Adapter (WUP-028) |  | Partial | Unsupported | Supported | No | On Windows, the driver needs to be changed manually to WinUSB using Zadig. Each on-device port can be used. In the DS, it will show as having an SN, however that is for the whole device, not the individual controllers. |
 | Steam Controller 2026 | `28DE:1106` | Supported | Supported | Supported | Yes |  |
 | REV USB PS4 Compatible |  | Supported | Supported | Supported | No |  |
 | PowerA Advantage Switch 2 | `20D6:A720` | Partial | Partial | Partial | No | Shows up as a joystick without gamepad mappings. |
