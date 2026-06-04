@@ -15,6 +15,7 @@ The FIRST Driver Station uses SDL for gamepad support. Most common gamepads work
 | Name | VID/PID | Windows | macOS | Linux | Has SN? | Notes |
 |---|---|---|---|---|---|---|
 | PlayStation 5 DualSense | `054C:0CE6` | Supported | Supported | Supported | Yes |  |
+| PlayStation 5 DualSense Edge | `054C:0DF2` | Supported | Supported | Supported | Yes |  |
 | Xbox Series | `045E:0B12` | Supported | Supported | Supported | No | Rumble support is spotty. |
 | Xbox Elite Series 2 | `045E:0B00` | Partial | Partial | Partial | No | Back buttons are not supported, and rumble support is spotty. |
 | Nintendo Switch Pro | `057E:2009` | Supported | Supported | Supported | Yes |  |
